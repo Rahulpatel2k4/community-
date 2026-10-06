@@ -1,0 +1,6 @@
+{
+  "name": "ToliMart - Neighborhood Community Buying",
+  "description": "Hyperlocal community grocery buying where neighbors pool orders to unlock bulk discounts on fresh staples and fruits, coordinated with AI-optimized neighborhood delivery routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
